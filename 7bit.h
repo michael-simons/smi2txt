@@ -1,0 +1,157 @@
+/***************************************************************************
+                          7bit.h  -  Standard 7 Bit Alphabet
+                             -------------------
+    begin                : irgendwann Oktober 2001 ;-)
+    copyright            : (C) 2002 by Michael Simons
+    email                : misi@planet-punk.de
+    url                  : http://www.planet-punk.de
+ ***************************************************************************/
+
+/***************************************************************************
+ *                                                                         *
+ *   This program is free software; you can redistribute it and/or modify  *
+ *   it under the terms of the GNU General Public License as published by  *
+ *   the Free Software Foundation; either version 2 of the License, or     *
+ *   (at your option) any later version.                                   *
+ *   For more information visit: http://www.gnu.org                        *
+ *                                                                         *
+ *   I am not responsible for any damage done by this programm. I even not *
+ *   guarantee that it works.                                              *
+ *                                                                         *
+ ***************************************************************************/
+
+#ifndef THE_7_BIT_DEFAULT_ALPHABET
+#define THE_7_BIT_DEFAULT_ALPHABET
+
+static int bit7[] = {
+  64,
+  163,
+  36,
+  165,
+  232,
+  233,
+  250,
+  236,
+  242,
+  199,
+  10,
+  216,
+  248,
+  13,
+  197,
+  229,
+  63,
+  95,
+  63,
+  63,
+  63,
+  63,
+  63,
+  63,
+  63,
+  63,
+  63,
+  63,
+  198,
+  230,
+  223,
+  202,
+  32,
+  33,
+  34,
+  35,
+  164,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  161,
+  65,
+  66,
+  67,
+  68,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76,
+  77,
+  78,
+  79,
+  80,
+  81,
+  82,
+  83,
+  84,
+  85,
+  86,
+  87,
+  88,
+  89,
+  90,
+  196,
+  214,
+  209,
+  220,
+  167,
+  191,
+  97,
+  98,
+  99,
+  100,
+  101,
+  102,
+  103,
+  104,
+  105,
+  106,
+  107,
+  108,
+  109,
+  110,
+  111,
+  112,
+  113,
+  114,
+  115,
+  116,
+  117,
+  118,
+  119,
+  120,
+  121,
+  122,
+  228,
+  246,
+  241,
+  252,
+  224
+};
+
+#endif
